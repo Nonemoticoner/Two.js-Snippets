@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:object_name}.linewidth = ${2:value};
+]]></content>
+	<tabTrigger>linewidth</tabTrigger>
+	<scope>source.js</scope>
+	<description>_.linewidth = _;</description>
+</snippet>
