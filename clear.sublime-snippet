@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:instance_name}.clear();
+]]></content>
+	<tabTrigger>clear</tabTrigger>
+	<scope>source.js</scope>
+	<description>_.clear();</description>
+</snippet>
