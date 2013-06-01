@@ -1,0 +1,16 @@
+<snippet>
+  <content><![CDATA[
+var ${1:dom_element} = document.getElementById("${2:div_id}"),
+	${3:Two_instance_name} = new Two(
+	{
+		type: Two.Types.${4:svg/webgl/canvas},
+		fullscreen: ${5:true/false},
+		width: ${6:value},
+		height: ${7:value},
+		autostart: ${8:true/false}
+	}).appendTo(${1:dom_element});
+]]></content>
+	<tabTrigger>construct</tabTrigger>
+	<scope>source.js</scope>
+	<description>Sets up Construction</description>
+</snippet>
