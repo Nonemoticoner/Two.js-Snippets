@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:object_name}.opacity = ${2:value_(0-1)};
+]]></content>
+	<tabTrigger>opacity</tabTrigger>
+	<scope>source.js</scope>
+	<description>_.opacity = _;</description>
+</snippet>
