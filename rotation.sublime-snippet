@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:object_name}.rotation = ${2:value_in_radians};
+]]></content>
+	<tabTrigger>rotation</tabTrigger>
+	<scope>source.js</scope>
+	<description>_.rotation = _;</description>
+</snippet>
