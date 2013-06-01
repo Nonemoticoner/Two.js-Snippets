@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var ${1:name} = ${2:Two_instance}.makeGroup(${2:objects_to_add});
+]]></content>
+	<tabTrigger>group</tabTrigger>
+	<scope>source.js</scope>
+	<description>Create new Group</description>
+</snippet>
