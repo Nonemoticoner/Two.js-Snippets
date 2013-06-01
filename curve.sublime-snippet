@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var ${1:name} = ${2:Two_instance}.makeCurve(${3:x1}, ${4:y1}, ${5:x2}, ${6:y2}, ${7:x3}, ${8:y3}, ${9:more_coordinates,} ${10:open?_(true/false)});
+]]></content>
+	<tabTrigger>curve</tabTrigger>
+	<scope>source.js</scope>
+	<description>Create new Curve</description>
+</snippet>
