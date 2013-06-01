@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var ${1:name} = ${2:Two_instance}.makeCircle(${3:x}, ${4:y}, ${5:r});
+]]></content>
+	<tabTrigger>circle</tabTrigger>
+	<scope>source.js</scope>
+	<description>Create new circle</description>
+</snippet>
