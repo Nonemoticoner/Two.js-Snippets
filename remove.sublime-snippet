@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:instance_name}.add(${2:object_to_remove});
+]]></content>
+	<tabTrigger>remove</tabTrigger>
+	<scope>source.js</scope>
+	<description>_.remove(_);</description>
+</snippet>
