@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:object_name}.cap = "${2:(round/butt/square)}";
+]]></content>
+	<tabTrigger>cap</tabTrigger>
+	<scope>source.js</scope>
+	<description>_.cap = "_";</description>
+</snippet>
