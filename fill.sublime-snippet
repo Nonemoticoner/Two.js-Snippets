@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:object_name}.fill = "${2:color}";
+]]></content>
+	<tabTrigger>fill</tabTrigger>
+	<scope>source.js</scope>
+	<description>_.fill = "_";</description>
+</snippet>
