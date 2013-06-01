@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:Two_instance}.appendTo(${2:dom_element});
+]]></content>
+	<tabTrigger>appendTo</tabTrigger>
+	<scope>source.js</scope>
+	<description>_.appendTo(_);</description>
+</snippet>
