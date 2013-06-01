@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:object_name}.noStroke();
+]]></content>
+	<tabTrigger>noStroke</tabTrigger>
+	<scope>source.js</scope>
+	<description>_.noStroke();</description>
+</snippet>
