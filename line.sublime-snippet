@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var ${1:name} = ${2:Two_instance}.makeLine(${3:x1}, ${4:y1}, ${5:x2}, ${6:y2});
+]]></content>
+	<tabTrigger>line</tabTrigger>
+	<scope>source.js</scope>
+	<description>Create new Line</description>
+</snippet>
