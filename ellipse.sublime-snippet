@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var ${1:name} = ${2:Two_instance}.makeEllipse(${3:x}, ${4:y}, ${5:width}, ${6:height});
+]]></content>
+	<tabTrigger>ellipse</tabTrigger>
+	<scope>source.js</scope>
+	<description>Create new Ellipse</description>
+</snippet>
