@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var ${1:dom_element_name} = document.getElementById("${2:div_id}");
+]]></content>
+	<tabTrigger>domElement</tabTrigger>
+	<scope>source.js</scope>
+	<description>Create new dom element</description>
+</snippet>
