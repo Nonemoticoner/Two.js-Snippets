@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:Two_instance}.play();
+]]></content>
+	<tabTrigger>play</tabTrigger>
+	<scope>source.js</scope>
+	<description>_.play();</description>
+</snippet>
