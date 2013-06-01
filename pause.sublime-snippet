@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:Two_instance}.pause();
+]]></content>
+	<tabTrigger>pause</tabTrigger>
+	<scope>source.js</scope>
+	<description>_.pause();</description>
+</snippet>
