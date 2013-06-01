@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:Two_instance}.update();
+]]></content>
+	<tabTrigger>update</tabTrigger>
+	<scope>source.js</scope>
+	<description>_.update();</description>
+</snippet>
