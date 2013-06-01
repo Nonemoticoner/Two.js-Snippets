@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+makePolygon
+var ${1:name} = ${2:Two_instance}.makePolygon(${3:x1}, ${4:y1}, ${5:x2}, ${6:y2}, ${7:x3}, ${8:y3}, ${9:more_coordinates,} ${10:open?_(true/false)});
+]]></content>
+	<tabTrigger>polygon</tabTrigger>
+	<scope>source.js</scope>
+	<description>Create new Polygon</description>
+</snippet>
