@@ -1,0 +1,15 @@
+<snippet>
+  <content><![CDATA[
+var ${1:Two_instance_name} = new Two(
+	{
+		type: Two.Types.${2:svg/webgl/canvas},
+		fullscreen: ${3:true/false},
+		width: ${4:value},
+		height: ${5:value},
+		autostart: ${6:true/false}
+	});
+]]></content>
+	<tabTrigger>Two</tabTrigger>
+	<scope>source.js</scope>
+	<description>Create new Two instance</description>
+</snippet>
