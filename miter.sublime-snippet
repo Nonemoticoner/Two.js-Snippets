@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:object_name}.miter = ${2:value}";
+]]></content>
+	<tabTrigger>miter</tabTrigger>
+	<scope>source.js</scope>
+	<description>_.miter = _;</description>
+</snippet>
