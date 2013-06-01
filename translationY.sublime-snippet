@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:object_name}.translation.y = ${2:value};
+]]></content>
+	<tabTrigger>translationY</tabTrigger>
+	<scope>source.js</scope>
+	<description>_.translation.y = _;</description>
+</snippet>
