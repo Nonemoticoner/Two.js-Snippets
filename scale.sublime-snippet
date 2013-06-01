@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:object_name}.scale = ${2:value};
+]]></content>
+	<tabTrigger>scale</tabTrigger>
+	<scope>source.js</scope>
+	<description>_.scale = _;</description>
+</snippet>
