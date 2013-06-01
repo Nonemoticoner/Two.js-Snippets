@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:object_name}.stroke = "${2:color}";
+]]></content>
+	<tabTrigger>stroke</tabTrigger>
+	<scope>source.js</scope>
+	<description>_.stroke = "_";</description>
+</snippet>
