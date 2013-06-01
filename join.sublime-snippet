@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:object_name}.join = "${2:(round/miter/bevel)}";
+]]></content>
+	<tabTrigger>join</tabTrigger>
+	<scope>source.js</scope>
+	<description>_.join = "_";</description>
+</snippet>
